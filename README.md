@@ -10,10 +10,18 @@ Demo flight booking app built with Spring MVC. Uses MySQL db and Hibernate ORM.
 <div align="center"><img src="https://raw.githubusercontent.com/adershmanoj/flight-booking-java/master/media/home.png" alt="Home" /></div>
 
 ## Screenshots
-Application screenshots
-*Login*
+Application screenshots<br>
+**Login**
 <div align="center"><img src="https://raw.githubusercontent.com/adershmanoj/flight-booking-java/master/media/login.png" alt="Login" /></div>
-*Search*
+
+**Search**
 <div align="center"><img src="https://raw.githubusercontent.com/adershmanoj/flight-booking-java/master/media/search.png" alt="Search" /></div>
-*Itinerary*
-<div align="center"><img src="https://raw.githubusercontent.com/adershmanoj/flight-booking-java/master/media/itinerary.png" alt="Search" /></div>
+
+**Itinerary**
+<div align="center"><img src="https://raw.githubusercontent.com/adershmanoj/flight-booking-java/master/media/itinerary.png" alt="Itinerary" /></div>
+
+**Book**
+<div align="center"><img src="https://raw.githubusercontent.com/adershmanoj/flight-booking-java/master/media/book.png" alt="Book" /></div>
+
+**Cancel**
+<div align="center"><img src="https://raw.githubusercontent.com/adershmanoj/flight-booking-java/master/media/cancel.png" alt="Cancel" /></div>
